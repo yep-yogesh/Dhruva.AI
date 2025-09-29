@@ -1,6 +1,4 @@
-# Dhruva.AI
 
-**Your guiding star in the academic universe** — a multilingual campus chatbot that answers student queries anytime, anywhere.  
 ![6802DD53-C045-435F-BC2A-632F1F48C4DA](https://github.com/user-attachments/assets/0cd49593-b85e-4c95-b9ba-e3dca02fed15)
 
 
